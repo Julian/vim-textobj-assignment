@@ -1,2 +1,4 @@
 .bundle/
-.vim-ignore/
+
+.vim-flavor/
+VimFlavor.lock
